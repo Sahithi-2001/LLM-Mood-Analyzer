@@ -12,26 +12,5 @@ This is a Streamlit-based Journal Mood Analyzer that uses a Hugging Face LLM (La
 
 ✅ Fallback logic if model fails (robust)
 
-📦 Requirements
-Install dependencies using:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-▶️ Run the App
-bash
-Copy
-Edit
-streamlit run api.py
-💻 Technologies Used
-Streamlit
-
-Hugging Face Transformers
-
-Python
-
-Pandas
-
 
 
